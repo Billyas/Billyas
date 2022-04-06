@@ -1,5 +1,9 @@
 ### Hello! I'm Billyas.
-<a href="https://github.com/Billyas"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Billyas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Billyas's github stats" /></a> <a href="https://github.com/Billyas"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billyas&layout=compact&theme=buefy&hide_border=true" /></a>
+
+|<a href="https://github.com/Billyas"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Billyas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Billyas's github stats" /></a>
+|<a href="https://github.com/Billyas"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billyas&layout=compact&theme=buefy&hide_border=true" /></a>|
+
+
 <!-- [![Billyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Billyas)](https://github.com/Billyas)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billyas&langs_count=3)](https://github.com/Billyas)
  -->
