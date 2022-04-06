@@ -10,7 +10,7 @@
 <a href="https://github.com/Billyas"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billyas&layout=compact&theme=buefy&hide_border=true" /></a> -->
 
 
-[![Billyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Billyas)](https://github.com/Billyas)
+[![Billyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Billyas&theme=buefy)](https://github.com/Billyas)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billyas&langs_count=3)](https://github.com/Billyas) -->
 
 <!--
