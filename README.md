@@ -1,29 +1,8 @@
 ### Hello! I'm Billyas.
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-<a href="https://github.com/Billyas"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Billyas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Billyas's github stats" /></a>
-<a href="https://github.com/Billyas"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billyas&layout=compact&theme=buefy&hide_border=true" /></a> -->
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=billyas&count_private=true&theme=buefy&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Billyas's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Billyas&layout=compact&langs_count=8&theme=buefy&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px" />
 
 
-[![Billyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Billyas&theme=buefy)](https://github.com/Billyas)
+
+<!-- [![Billyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Billyas&theme=buefy)](https://github.com/Billyas) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billyas&langs_count=3)](https://github.com/Billyas) -->
-
-<!--
-**Billyas/Billyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
