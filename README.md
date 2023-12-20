@@ -7,5 +7,4 @@
 ![My Skills](https://skillicons.dev/icons?i=c,cs,py,java,go,js,vue,vite,nuxtjs,django,flask,spring,docker,linux,bash,idea,vscode,vim,git,nginx,mysql,mongodb,sqlite,redis,postman,cloudflare,workers,ps,pr,ae&theme=light
 )
 
-<!-- [![Billyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Billyas&theme=buefy)](https://github.com/Billyas) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billyas&langs_count=3)](https://github.com/Billyas) -->
+
